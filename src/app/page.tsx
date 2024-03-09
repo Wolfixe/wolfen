@@ -6,6 +6,7 @@ export default function Home() {
       <div className="z-10 max-w-5xl w-full items-center justify-between font-mono text-sm lg:flex">
         <h1>szczepfuck</h1>
         <p>jebac dupafsdgfsfdf scepanik💩💩💩💩💩💩</p>
+        <div className="dupa">tego</div>
       </div>
     </main>
   );
